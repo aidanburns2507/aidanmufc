@@ -3,8 +3,8 @@ title: Untitled document
 layout: post
 author: aidan.burns
 permalink: /untitled-document/
-source-id: 1qSrREe0g4qTGOLXJHWSvK63T_vHbTCvJmc6OWalvqss
+source-id: 17jcx-Mm6__9PAJhzVxy1Q4fhDuFOqROoYXb8uRKWbc8
 published: true
 ---
-Today we are doing fuze boxes and they are very confusin considering i am not the best at codind i do not think this is perfect for me!
+we are carrying on with our fuze boxes today and i am finally starting to get the hang of it and i have figured it is not as difficult as i thought it is actually really fun.
 
